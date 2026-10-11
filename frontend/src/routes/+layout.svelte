@@ -82,7 +82,7 @@
 </script>
 
 <div class="h-screen w-screen flex flex-col bg-[#0A0A0C] text-[#EDEDED] overflow-hidden select-none font-sans">
-  <!-- CADS v1.0 Frameless TitleBar -->
+  <!-- CAUI v1.1 Frameless TitleBar -->
   <header
     data-tauri-drag-region
     class="h-11 bg-[#0A0A0C] border-b border-[#272732] flex items-center justify-between px-3 select-none text-xs text-[#9CA3AF] z-50 shrink-0"
@@ -112,7 +112,7 @@
     <!-- Center Status Indicator -->
     <div class="hidden md:flex items-center gap-2">
       <div class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></div>
-      <span class="text-[11px] text-[#6B7280] font-mono">CADS v1.0 · Zero-Knowledge Local Engine</span>
+      <span class="text-[11px] text-[#6B7280] font-mono">CAUI v1.1 · Zero-Knowledge Local Engine</span>
     </div>
 
     <!-- Right Controls: Pro Badge, Settings, Window Controls -->
@@ -241,7 +241,7 @@
       </div>
     </aside>
 
-    <!-- Raised Content Container (CADS v1.0 standard: #0e0e0e outer, elevated card #161616 with rounded-tl-xl) -->
+    <!-- Raised Content Container (CAUI v1.1 standard: #0e0e0e outer, elevated card #161616 with rounded-tl-xl) -->
     <main class="flex-1 min-w-0 flex flex-col overflow-hidden bg-[#0A0A0C]">
       <div class="flex-1 min-w-0 flex flex-col overflow-hidden bg-[#121217] rounded-tl-2xl border-t border-l border-[#272732] shadow-2xl relative">
         {@render children()}

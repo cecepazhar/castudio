@@ -75,7 +75,7 @@
   <div class="h-14 border-b border-[#272732] px-8 flex items-center justify-between bg-[#121217] shrink-0">
     <div>
       <h1 class="font-bold text-white text-base">Dashboard Proyek & Project Bible</h1>
-      <p class="text-[11px] text-[#9CA3AF]">Satu Sumber Kebenaran untuk seluruh format konten turunan CADS v1.0.</p>
+      <p class="text-[11px] text-[#9CA3AF]">Satu Sumber Kebenaran untuk seluruh format konten turunan CAUI v1.1.</p>
     </div>
 
     <div class="flex items-center gap-2">

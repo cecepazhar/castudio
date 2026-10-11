@@ -117,7 +117,7 @@
     <span
       class="px-1.5 py-0.5 rounded text-[10px] font-mono bg-[#8B5CF6]/20 text-[#C4B5FD] border border-[#8B5CF6]/30"
     >
-      CADS
+      CAUI
     </span>
   </button>
 {:else}
